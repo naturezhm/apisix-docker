@@ -21,11 +21,11 @@
 
 # APISIX ARGS
 APISIX_VERSION ?= 2.10.1
-IMAGE_NAME = apache/apisix
+IMAGE_NAME = bradyzm/apisix
 IMAGE_TAR_NAME = apache_apisix
 
 APISIX_DASHBOARD_VERSION ?= 2.9.0
-APISIX_DASHBOARD_IMAGE_NAME = apache/apisix-dashboard
+APISIX_DASHBOARD_IMAGE_NAME = bradyzm/apisix-dashboard
 APISIX_DASHBOARD_IMAGE_TAR_NAME = apache_apisix_dashboard
 
 
